@@ -1,6 +1,6 @@
 provider "aws" {
   region = "eu-west-3"
-  shared_credentials_file = "C:/Users/mangrahu-admin/.aws/credentials"
+  shared_credentials_file = "C:/Users/XYZ/.aws/credentials"
 }
 
 resource "aws_instance" "Udacity_T2" {
